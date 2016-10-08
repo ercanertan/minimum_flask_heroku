@@ -88,9 +88,13 @@ $ pip install flask
 $ pip freeze > requirements.txt
 ```
 
-Test Local
+Test Locally
 ```
 $ python run.py
+```
+Visit http://0.0.0.0:8080/  if no error then contunie
+```
+Ctrl + C
 ```
 Setup Heroku
 ```
