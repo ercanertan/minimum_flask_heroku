@@ -92,7 +92,7 @@ Test Locally
 ```
 $ python run.py
 ```
-Visit http://0.0.0.0:8080/  if no error then contunie
+Visit http://0.0.0.0:8080/  if no error then continue
 ```
 Ctrl + C
 ```
