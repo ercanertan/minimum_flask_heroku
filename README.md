@@ -96,7 +96,8 @@ Test Local
 ```
 $ python run.py
 ```
-
+Setup Heroku
+```
 $ heroku login
 $ heroku create your-app-name
 $ git init .
@@ -105,4 +106,5 @@ $ git commit -m "Hello World"
 $ heroku git:remote -a your-app-name
 $ git push heroku master
 $ heroku open
+```
 ## Done
