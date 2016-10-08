@@ -14,10 +14,6 @@ Get into created folder
 ```
 $ cd heroku-application/
 ```
-Create folder for envirement
-```
-$ mkdir flask
-```
 Create folder for application itself inside heroku-application
 ```
 $ mkdir heroku_app
